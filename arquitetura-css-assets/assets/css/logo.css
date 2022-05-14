@@ -1,0 +1,11 @@
+@media screen and (min-width){
+    .logo {
+        display: none;
+    }
+}
+
+@media screen and (min-width){
+    .logo {
+        display: block;
+    }
+}
